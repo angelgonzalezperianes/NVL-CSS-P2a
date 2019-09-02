@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Lista de grandes grupos de rock</title>
+  <link href="style.css" rel="stylesheet">
+ <head>
+ <body>
+  <ul>
+    <li>Pearl Jam</li>
+    <li>Red Hot Chili Peppers</li>
+    <li>Radiohead</li>   
+    <li>Artic Monkeys</li>
+    <li>Queens of the stone age</li>
+    <li>Him</li>
+    <li>The National</li>
+    <li>Nine Inch Nails</li>
+    <li>Tool</li>
+    <li>Green Day</li>
+     </ul>
+  </body>
+</html>
+
+
+
